@@ -3,5 +3,6 @@ services:
     name: crop-disease-api
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn crop_disease_api:app
+    startCommand: python crop_disease_api.py
     plan: free
+
