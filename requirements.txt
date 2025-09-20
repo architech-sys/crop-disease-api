@@ -1,9 +1,6 @@
 Flask
-werkzeug
 torch
 torchvision
 Pillow
-numpy
-gunicorn
 
 
