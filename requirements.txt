@@ -4,3 +4,6 @@ torch
 torchvision
 Pillow
 numpy
+gunicorn
+
+
